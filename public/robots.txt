@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /analyzer
+
+# Don't index the analyzer — it's a tool page, not content.
+Sitemap: https://resumeiq.ai/sitemap.xml
